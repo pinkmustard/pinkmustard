@@ -3,6 +3,7 @@
 * 송지우(2000.10.14) - AI Developer 🤖
 * Gachon univ. 가천대학교(2019~ ) 🏫
 * Major in Computer Science 💻
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkmustard&layout=compact&theme=panda"/>
 
 ## 🔨 Once I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
