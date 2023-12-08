@@ -3,6 +3,7 @@
 * 송지우(2000.10.14) - AI Developer 🤖
 * Gachon univ. 가천대학교(2019~ ) 🏫
 * Major in Computer Science 💻
+* An Undergraduated Student in the Alogrithm Lab(2023~) 🔬
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkmustard&layout=compact&theme=panda"/>
 
 ## 🔨 Once I've used
