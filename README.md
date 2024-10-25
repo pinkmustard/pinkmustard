@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20pinkmustard's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 ## 🧑🏻‍💻 About Me
-* 송지우(2000.10.14) - AI Developer 🤖
-* Gachon univ. 가천대학교(2019~ ) 🏫
-* Major in Computer Science 💻
-* An Undergraduated Student in the Alogrithm Lab(2023~) 🔬
+* 송지우(2000.10.14) - NLP Researcher 🤖
+* B.S. Gachon univ. 가천대학교🏫(2019.03~2025.02), Major in Computer Science 💻
+* An Undergraduated Student in the Alogrithm Lab(2023.12~2024.10) 🔬
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkmustard&layout=compact&theme=panda"/>
 
 ## 💪 My main skills
@@ -75,9 +74,12 @@
 </div>
 
 ## 📝 certificate
-* ADsP(데이터 분석 준전문가) - 2021.12 ~
-* 리눅스 마스터 1급 - 2022.06 ~
-* SQLD(SQL 개발자) - 2022.09 ~
-* 네트워크 관리사 2급 - 2022.10 ~
-* 빅데이터분석기사 - 2024.07 ~
 * 정보처리기사 - 2024.09 ~
+* 빅데이터분석기사 - 2024.07 ~
+* 네트워크 관리사 2급 - 2022.10 ~
+* SQLD(SQL 개발자) - 2022.09 ~
+* 리눅스 마스터 1급 - 2022.06 ~
+* ADsP(데이터 분석 준전문가) - 2021.12 ~
+
+
+
