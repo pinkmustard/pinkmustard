@@ -4,7 +4,7 @@
 * B.S. Gachon univ. 가천대학교🏫(2019.03~2025.02), Major in Computer Science 💻
 * M.S. Konkuk univ. 건국대학교🏫(2025.03~), Major in Artificial Intelligence 💻
 * An Undergraduated Researcher in the Alogrithm Lab(2023.12~2024.12) 🔬
-* A Graduated Researcher in the NLP Lab(2024.12~) 🔬
+* A Graduated Researcher in the NLP Lab(2025.01~) 🔬
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinkmustard&layout=compact&theme=panda"/>
 
 ## 💪 My main skills
