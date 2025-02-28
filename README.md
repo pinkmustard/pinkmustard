@@ -20,7 +20,7 @@
 
 # 🛠 Tech Stack
 
-### 🔥 **Primary Skills** (Regularly Used)
+## 🔥 **Primary Skills** (Regularly Used)
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -30,7 +30,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🛠 **Secondary Skills** (Used Occasionally)
+## 🛠 **Secondary Skills** (Used Occasionally)
 
 #### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
