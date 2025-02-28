@@ -2,11 +2,11 @@
 # 🧑🏻‍💻 About Me
 - **송지우 (Jiwoo Song, 2000.10.14) - NLP Researcher 🤖**
 - **Education**  
-  - B.S. in Computer Science, **Gachon University** (2019.03 ~ 2025.02) 🏫  
   - M.S. in Artificial Intelligence, **Konkuk University** (2025.03 ~) 🏫  
-- **Research Experience**  
-  - Undergraduate Researcher, **Algorithm Lab** (2023.12 ~ 2024.12) 🔬  
+  - B.S. in Computer Science, **Gachon University** (2019.03 ~ 2025.02) 🏫  
+- **Research Experience**
   - Graduate Researcher, **NLP Lab** (2025.01 ~) 🔬  
+  - Undergraduate Researcher, **Algorithm Lab** (2023.12 ~ 2024.12) 🔬  
 
 ---
 
