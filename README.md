@@ -30,7 +30,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## 🛠 **Secondary Skills** (Used Occasionally)
+## 🌱 **Secondary Skills** (Used Occasionally)
 
 #### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
